@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Lato-Regular;
+  src: url(..//fonts/Lato-Regular.ttf);
+}
+@font-face {
+  font-family: Lato-Light;
+  src: url(..//fonts/Lato-Light.ttf);
+}
+@font-face {
+  font-family: Lato-Bold;
+  src: url(..//fonts/Lato-Bold.ttf);
+}
+@font-face {
+  font-family: Inter-Bold;
+  src: url(..//fonts/Inter-Bold.ttf);
+}
+@font-face {
+  font-family: RobotoSlab-Bold;
+  src: url(..//fonts/RobotoSlab-Bold.ttf);
+}
+@font-face {
+  font-family: Horizon;
+  src: url(..//fonts/horizon.otf);
+}
+@font-face {
+  font-family: Pandora;
+  src: url(..//fonts/Pandora\ Regular.ttf);
+}
+@font-face {
+  font-family: Chocolates-Bold;
+  src: url(..//fonts/TT\ Chocolates\ Bold.otf);
+}
