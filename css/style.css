@@ -152,7 +152,9 @@ ul {
   display: block;
 }
 
-
+.banner-section .bg-web .web-banner-btn span{
+font-size: 15px;
+}
 
 
 /* .banner-section .bg-web .web-banner-btn:hover {
@@ -975,7 +977,7 @@ ul {
   color: rgb(255, 255, 255);
   background-color: #ff0080;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 40px;
   padding: 10px 30px;
   border-radius: 50px;
   text-transform: uppercase;
@@ -1179,6 +1181,9 @@ svg.icon__arrow-up {
     font-size: 18px;
     padding: 10px 25px;
   }
+  .banner-section .bg-web .web-banner-btn span{
+    font-size: 10px;
+    }
 
   .sec-banner-wrap a {
     font-size: 30px;
@@ -1454,6 +1459,9 @@ svg.icon__arrow-up {
     font-size: 15px;
     padding: 10px 15px;
   }
+  .banner-section .bg-web .web-banner-btn span{
+    font-size: 10px;
+    }
 }
 
 @media only screen and (max-width: 620px) {
@@ -1469,6 +1477,9 @@ svg.icon__arrow-up {
     font-size: 18px;
     padding: 10px 15px;
   }
+  .banner-section .bg-web .web-banner-btn span{
+    font-size: 8px;
+    }
 }
 
 
@@ -1558,6 +1569,9 @@ svg.icon__arrow-up {
     font-size: 8px;
     padding: 10px 25px;
   }
+  .banner-section .bg-web .web-banner-btn span{
+    font-size: 5px;
+    }
 }
 
 @media only screen and (max-width: 525px) {
