@@ -1069,10 +1069,12 @@
     font-size: 20px;
 }
 h3.wow.fadeInUp span{
-    font-size: 100px;
+    font-size: 130px;
     color: #ff3392;
   }
-
+p.wow.fadeInUp{
+    font-size: 30px;
+}
   .banner-section .bg-web .btn-50-annual span {
     display: block;
   }
@@ -1092,6 +1094,9 @@ h3.wow.fadeInUp span{
         font-size: 80px ;
         color: #ff3392;
       }
+      p.wow.fadeInUp{
+        font-size: 30px;
+    }
   }
   
   /* Small devices (phones) */
@@ -1109,6 +1114,9 @@ h3.wow.fadeInUp span{
         font-size: 50px ;
         color: #ff3392;
       }
+      p.wow.fadeInUp{
+        font-size: 25px;
+    }
   }
   
   /* Extra small devices */
@@ -1126,5 +1134,8 @@ h3.wow.fadeInUp span{
         font-size: 50px ;
         color: #ff3392;
       }
+      p.wow.fadeInUp{
+        font-size: 20px;
+    }
   }
   
